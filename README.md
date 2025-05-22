@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nehali-demo-repo.git
+git clone https://github.com/nehalineogi/nehali-demo-repo.git
 
 # Navigate to the project directory
 cd nehali-demo-repo
@@ -45,6 +45,6 @@ Contributions are always welcome!
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Nehali Neogi - [LinkedIn](https://www.linkedin.com/in/nehalineogi/) - [GitHub Profile](https://github.com/nehalineogi)
 
-Project Link: [https://github.com/yourusername/nehali-demo-repo](https://github.com/yourusername/nehali-demo-repo)
+Project Link: [https://github.com/nehalineogi/nehali-demo-repo](https://github.com/nehalineogi/nehali-demo-repo)
