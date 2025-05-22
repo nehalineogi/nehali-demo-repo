@@ -45,6 +45,6 @@ Contributions are always welcome!
 
 ## Contact
 
-Nehali Neogi - [Blog](https://nehalineogi.blogspot.com/) - [GitHub Profile](https://github.com/nehalineogi)
+Nehali Neogi - [LinkedIn](https://www.linkedin.com/in/nehalineogi/) - [GitHub Profile](https://github.com/nehalineogi)
 
 Project Link: [https://github.com/nehalineogi/nehali-demo-repo](https://github.com/nehalineogi/nehali-demo-repo)
