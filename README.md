@@ -45,6 +45,4 @@ Contributions are always welcome!
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
 Project Link: [https://github.com/yourusername/nehali-demo-repo](https://github.com/yourusername/nehali-demo-repo)
